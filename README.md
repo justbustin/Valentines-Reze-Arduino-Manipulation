@@ -6,7 +6,7 @@
 
 </div>
 
-Simple interactive touchscreen project powered by arduino! Specifically the Arduino Uno + Elegoo 2.8" TFT shield. Made as a cute gift, and can cloned and customized for your use case!
+Simple interactive touchscreen project powered by arduino! Specifically the Arduino Uno + Elegoo 2.8" TFT shield. Made as a cute gift, and can cloned and customized for your use case! as seen from https://www.instagram.com/reel/DXGx24eEahx/
 
 All user-editable config lives in one block at the top of the sketch. swap the images, tweak the text, flash, done.
 
